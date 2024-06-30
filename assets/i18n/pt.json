@@ -1,0 +1,28 @@
+{
+	"common": {
+		"lorem-ipsum": {
+			"what-is": "O que é Lorem Ipsum?",
+			"where-come-from": "De onde vem?",
+			"why-use": "Porque é que o usamos?",
+			"where-to-get": "Onde posso obter?"
+		}
+	},
+	"languages": {
+		"change": "Mudar Idioma",
+		"en": "Inglês",
+		"pt": "Português"
+	},
+	"road-to-glory": {
+		"title": "Rumo à Glória"
+	},
+	"sidenav": {
+		"home": "Início",
+		"road-to-glory": "Rumo à Glória",
+		"about-us": "Sobre Nós",
+		"follow-us": "Segue-nos"
+	},
+	"system": {
+		"coming-soon": "Em Breve!",
+		"understood": "Entendido"
+	}
+}
