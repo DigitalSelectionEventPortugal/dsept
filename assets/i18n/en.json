@@ -5,6 +5,10 @@
 			"where-come-from": "Where does it come from?",
 			"why-use": "Why do we use it?",
 			"where-to-get": "Where can I get some?"
+		},
+		"mode": {
+			"dark": "Mode: Dark",
+			"light": "Mode: Light"
 		}
 	},
 	"languages": {
