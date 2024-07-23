@@ -1,11 +1,5 @@
 {
 	"common": {
-		"lorem-ipsum": {
-			"what-is": "O que é Lorem Ipsum?",
-			"where-come-from": "De onde vem?",
-			"why-use": "Porque é que o usamos?",
-			"where-to-get": "Onde posso obter?"
-		},
 		"mode": {
 			"dark": "Modo: Escuro",
 			"light": "Modo: Claro"
@@ -16,8 +10,15 @@
 		"en": "Inglês",
 		"pt": "Português"
 	},
+	"home": {
+		"title": "Digital Selection Event portugal",
+		"what-is-title": "O que é o \"Digital Selection Event\"",
+		"what-is-body": "O \"Digital Selection Event\" é um evento comunitário começado em Portugal para selecionar um conjunto de jogares para representárem o país contra outros países.\nUma série de eventos são realizados e os jogadores de topo qualificados são convidados a representar Portugal."
+	},
 	"portugal-vs": {
-		"title": "Portugal VS"
+		"title": "Portugal VS",
+		"what-is-title": "What is \"Portugal VS\"",
+		"what-is": "\"Portugal VS\" is an event where"
 	},
 	"sidenav": {
 		"home": "Início",
