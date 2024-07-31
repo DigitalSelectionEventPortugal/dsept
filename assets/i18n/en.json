@@ -5,6 +5,21 @@
 			"light": "Mode: Light"
 		}
 	},
+	"detalhes": {
+		"year": "Year",
+		"select-year": "Select Year",
+		"country": "Country",
+		"select-country": "Select Country",
+		"event": "Event",
+		"select-event": "Select Event",
+		"event-date": "Event Date",
+		"start-date": "Start Time",
+		"signup": "Signup",
+		"signup-until": "Signup until",
+		"player-limit": "Player Limit",
+		"entry-price": "Entry Price",
+		"prizes": "Prizes"
+	},
 	"languages": {
 		"change": "Change Language",
 		"en": "English",
@@ -29,5 +44,15 @@
 	"system": {
 		"coming-soon": "Coming soon!",
 		"understood": "Understood"
+	},
+	"countries": {
+		"france": "France"
+	},
+	"2024": {
+		"france": {
+			"first-selection": "First Selection",
+			"second-selection": "Second Selection",
+			"vs-france": "VS France"
+		}
 	}
 }
