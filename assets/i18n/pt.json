@@ -3,7 +3,10 @@
 		"mode": {
 			"dark": "Modo: Escuro",
 			"light": "Modo: Claro"
-		}
+		},
+		"tba": "Por Ser Anunciado",
+		"more-tba": "Mais detalhes por serem anunciados",
+		"swiss": "Suiço"
 	},
 	"detalhes": {
 		"year": "Ano",
@@ -18,7 +21,12 @@
 		"signup-until": "Inscrição até",
 		"player-limit": "Limite de Jogadores",
 		"entry-price": "Preço de Entrada",
-		"prizes": "Prémios"
+		"prizes": "Prémios",
+		"representatives": "Representantes",
+		"format": "Formato",
+		"best-of": "à melhor de ",
+		"round-time": "Tempo De Ronda",
+		"extra-time": "5 mins e 4 turnos extra"
 	},
 	"languages": {
 		"change": "Mudar Idioma",
@@ -52,7 +60,21 @@
 		"france": {
 			"first-selection": "Primeira Seleção",
 			"second-selection": "Segunda Seleção",
-			"vs-france": "VS França"
+			"vs-france": "VS França",
+			"prizes": {
+				"first-selection": {
+					"top1": "Vencedor: Convite para reprensetar Portugal no Portugal VS França",
+					"top2": "2º Lugar: Convite para reprensetar Portugal no Portugal VS França",
+					"prizes-for-top": "Boosters a serem dividos pelo top"
+				}
+			},
+			"selection-details": {
+				"first-selection-winner": "Vencedor do evento Primeira Seleção (24.08.2024)",
+				"first-selection-second-place": "2º lugar do evento Primeira Seleção (24.08.2024)",
+				"second-selection-winner": "Vencedor do evento Segunda Seleção (09.2024)",
+				"second-selection-second-place": "2º lugar do evento Segunda Seleção (09.2024)",
+				"second-selection-third-place": "3º lugar do evento Segunda Seleção (09.2024)"
+			}
 		}
 	}
 }
