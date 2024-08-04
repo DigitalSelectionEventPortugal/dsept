@@ -1,12 +1,78 @@
 {
 	"common": {
+		"tba": "Por Ser Anunciado",
+		"more-tba": "Mais detalhes por serem anunciados",
+		"swiss": "Suiço",
+		"registration": "Registo",
+		"refunds": "Reembolsos",
+		"elegibility": "Elegibilidade",
+		"rules": "Regras",
+		"warnings": "Avisos",
+		"rounds": "Ronds",
+		"deck": "Baralhos",
+		"prizes": "Prémios",
 		"mode": {
 			"dark": "Modo: Escuro",
 			"light": "Modo: Claro"
 		},
-		"tba": "Por Ser Anunciado",
-		"more-tba": "Mais detalhes por serem anunciados",
-		"swiss": "Suiço"
+		"faq": {
+			"registration": {
+				"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 22 de Agosto por mensagem privada no Servidor de Discord do Evento",
+				"considered-registered": "Só estás considerado registadoo se tiveres enviado prova do pagamento",
+				"discord-link": "Link de convite para o Servidor de Discord dado no formulário de inscrição"
+			},
+			"elegibility": {
+				"only-portuguese": "Apenas jogadores Portuguêses podem se enscrever",
+				"areas": "Jogadores do continente, ilhas e emigrantes podem-se increver",
+				"speak": "Jogadores necessitam de saber falar Português",
+				"remote": "O jogador necessita de uma configuração remota para ser capaz de participar",
+				"internet": "Ligação estável à internet, áudio claro e imagem clara são necessários"
+			},
+			"rules": {
+				"official": "Regras Oficiais da Bandai",
+				"mulligan": "Mulligan",
+				"no-side-deck": "Sem Side Deck",
+				"no-proxies": "Proxies não são permitidas",
+				"cant-find-opponent": "Se não conseguires encontrar o teu oponente ou a tua mesa, contacta um membro da equipa de juízes ou da equipa de moderação",
+				"no-streaming": "Streaming NÃO É permitido",
+				"recording": "Jogadores podem gravar os seus jogos para o propósito de mostrarem eventos aos juízes mas jogadores não podem manter as gravações",
+				"delete-recording": "Gravações têm de ser apagadas entre rondas",
+				"found-cheating": "Se um jogador for apanhado a fazer batota, ter comportamentos indevidos ou a ir contra as regras oficiais da Bandai, tal jogador será avisado, perderá o jogo, será desqualificado do evento ou será permanentemente banido de participar nos nossos eventos dependendo da gravidade da situação",
+				"final-word": "A equipa de moderação tem a palavra final na situação da decisão dos juízes não ser aceita por ambas as partes involvidas"
+			},
+			"warnings": {
+				"5-mins-late-with-warning": "Chegar 5 minutos atrasado ao jogo, COM uma notificação a um juíz ou moderador, depois de ronda ter sido anunciada: 1 aviso",
+				"5-mins-late-without-warning": "Chegar 5 minutos atrasado ao jogo, SEM uma notificação a um juíz ou moderador, depois de ronda ter sido anunciada: 1 ronda do Melhor de 3 perdida automaticamente",
+				"10-mins-late": "Chegar 10 minutos atrasado ao jogo, INDEPENDENTEMENTE de haver uma notificação a um juíz ou moderador, depois de ronda ter sido anunciada: Ronda perdida automaticamente"
+			},
+			"rounds": {
+				"not-eliminated": "Se um jogador perder um ronda, tal jogador não é imediatamente eliminado",
+				"regardless-of-losses": "Um jogador pode jogar o torneio até ao fim independentemente do numero de derrotas",
+				"swiss": "O Torneio vai funcionar num formato de rondas suíças, e cada ronda vai ser jogado num formato à melhor de 3 jogos (Bo3), o primeiro jogador a ganhar 2 dos 3 jogos numa ronda é considerado o vencedor dessa ronda",
+				"3-rounds": "02 a 08 jogadores result em 3 rondas",
+				"4-rounds": "09 a 16 jogadores result em 4 rondas",
+				"5-rounds": "17 a 32 jogadores result em 5 rondas",
+				"50-mins": "Jogadores têm 50 minutos para completar o seu Bo3",
+				"extra-time": "Se os 50 minutos tiverem passado e não existe um vencedor claro, 4 rondas extra são dadas aos jogadors e um total de 5 minutos são dados para acabar as tais 4 rondas",
+				"turn-0": "O turno do jogador em que o jogo se encontra quando o tempo acaba é considerado o turno 0 para os turnos extra, depois os jogadores jogam os turnos extra até acabarem o turno 3",
+				"middle-of-attack": "Se o tempo extra acabar no meio de resolver um ataque, o ataque é resolvido normalmente e só depois de ser resolvido é que a ronda acabou verdadeiramente"
+			},
+			"deck": {
+				"cannot-change": "Jogadores não podem mudar de Baralhos entre rondas ou jogos",
+				"only-on-signup": "Apenas o baralho registado durante a inscrição pode ser utilizado"
+			},
+			"prizes": {
+				"boosters": "Jogadores são recompensados com Boosters a serem divididos pelos jogadores classificados no topo da tabela",
+				"represent": "Vencedor e 2º lugar receberão o convite para representar Portugal em adição aos boosters",
+				"free-entry": "A entrada gratúita recompensada ao vencedor não pode ser transferida para outro jogador, se o vencedor não puder participar no próximo evento esta entrada gratúita será perdida",
+				"free-shipping": "Envios são gratúitos para jogodadores de Portugal continental e as ilhas",
+				"outside-of-portugal": "Jogadores Portugueses que estejam a viver fora de Portugal poderão de ter de pagar extra pelo envio",
+				"freshly-open": "O display de onde os Boosters virão será aberto em Stream",
+				"packed-on-stream": "Os prémios serão empacotados em Stream como uma demonstração de autenticidade",
+				"opened": "Se o jogador assim o desejar, os boosters poderão ser abertos em stream",
+				"of-value": "Se um Booster for aberto em stream por escolha de um jogador, tal jogador poderá escolher ter apenas algumas das cartas enviadas em vez de receber o bulk todo"
+			}
+		}
 	},
 	"detalhes": {
 		"year": "Ano",
@@ -21,7 +87,6 @@
 		"signup-until": "Inscrição até",
 		"player-limit": "Limite de Jogadores",
 		"entry-price": "Preço de Entrada",
-		"prizes": "Prémios",
 		"representatives": "Representantes",
 		"format": "Formato",
 		"best-of": "à melhor de ",
@@ -74,6 +139,15 @@
 				"second-selection-winner": "Vencedor do evento Segunda Seleção (09.2024)",
 				"second-selection-second-place": "2º lugar do evento Segunda Seleção (09.2024)",
 				"second-selection-third-place": "3º lugar do evento Segunda Seleção (09.2024)"
+			},
+			"faq": {
+				"registration": {
+					"be-made": "Registos feitos até 23 de Agosto 23:59 GMT+1"
+				},
+				"refunds": {
+					"week-prior": "Reembolsos serão processados até 1 semana antes do evento (16.08.2024)",
+					"non-refundable": "Qualquer inscrição feita durante a semana do evento (18.08 to 23.08) não é reembolsável"
+				}
 			}
 		}
 	}
