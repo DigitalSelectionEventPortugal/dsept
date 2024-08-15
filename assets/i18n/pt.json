@@ -17,7 +17,7 @@
 		},
 		"faq": {
 			"registration": {
-				"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 22 de Agosto por mensagem privada no Servidor de Discord do Evento",
+				"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 29 de Agosto por mensagem privada no Servidor de Discord do Evento",
 				"considered-registered": "Só estás considerado registado se tiveres enviado prova do pagamento",
 				"discord-link": "Link de convite para o Servidor de Discord dado no formulário de inscrição"
 			},
@@ -134,19 +134,19 @@
 				}
 			},
 			"selection-details": {
-				"first-selection-winner": "Vencedor do evento Primeira Seleção (24.08.2024)",
-				"first-selection-second-place": "2º lugar do evento Primeira Seleção (24.08.2024)",
+				"first-selection-winner": "Vencedor do evento Primeira Seleção (31.08.2024)",
+				"first-selection-second-place": "2º lugar do evento Primeira Seleção (31.08.2024)",
 				"second-selection-winner": "Vencedor do evento Segunda Seleção (09.2024)",
 				"second-selection-second-place": "2º lugar do evento Segunda Seleção (09.2024)",
 				"second-selection-third-place": "3º lugar do evento Segunda Seleção (09.2024)"
 			},
 			"faq": {
 				"registration": {
-					"be-made": "Registos feitos até 23 de Agosto 23:59 GMT+1"
+					"be-made": "Registos feitos até 29 de Agosto 23:59 GMT+1"
 				},
 				"refunds": {
-					"week-prior": "Reembolsos serão processados até 1 semana antes do evento (16.08.2024)",
-					"non-refundable": "Qualquer inscrição feita durante a semana do evento (18.08 to 23.08) não é reembolsável"
+					"week-prior": "Reembolsos serão processados até 1 semana antes do evento (23.08.2024)",
+					"non-refundable": "Qualquer inscrição feita durante a semana do evento (26.08 to 29.08) não é reembolsável"
 				}
 			}
 		}

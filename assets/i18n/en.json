@@ -17,7 +17,7 @@
 		},
 		"faq": {
 			"registration": {
-				"changes-to-registration": "Any changes to Registration Details, such as Discord Name and Decklists must be made until the end of 22nd of August through Private Message in the Event's Discord Server",
+				"changes-to-registration": "Any changes to Registration Details, such as Discord Name and Decklists must be made until the end of 29th of August through Private Message in the Event's Discord Server",
 				"considered-registered": "You will only be considered registered if you have sent Proof of payment",
 				"discord-link": "Discord Invite Link is provided in the Registration Form"
 			},
@@ -136,19 +136,19 @@
 				}
 			},
 			"selection-details": {
-				"first-selection-winner": "Winner of the First Selection Event (24.08.2024)",
-				"first-selection-second-place": "2nd place of the First Selection Event (24.08.2024)",
+				"first-selection-winner": "Winner of the First Selection Event (31.08.2024)",
+				"first-selection-second-place": "2nd place of the First Selection Event (31.08.2024)",
 				"second-selection-winner": "Winner of the Second Selection Event (09.2024)",
 				"second-selection-second-place": "2nd place of the Second Selection Event (09.2024)",
 				"second-selection-third-place": "3nd place of the Second Selection Event (09.2024)"
 			},
 			"faq": {
 				"registration": {
-					"be-made": "Registrations must be made until the 23rd of August 23: 59 GMT+1"
+					"be-made": "Registrations must be made until the 29th of August 23:59 GMT+1"
 				},
 				"refunds": {
-					"week-prior": "Refunds will only be issued until 1 week prior (16.08.2024)",
-					"non-refundable": "Any registration made within the week of the event (18.08 to 23.08) are non refundable"
+					"week-prior": "Refunds will only be issued until 1 week prior (23.08.2024)",
+					"non-refundable": "Any registration made within the week of the event (26.08 to 30.08) are non refundable"
 				}
 			}
 		}
