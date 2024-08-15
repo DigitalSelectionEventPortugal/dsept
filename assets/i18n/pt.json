@@ -8,7 +8,7 @@
 		"elegibility": "Elegibilidade",
 		"rules": "Regras",
 		"warnings": "Avisos",
-		"rounds": "Ronds",
+		"rounds": "Rondas",
 		"deck": "Baralhos",
 		"prizes": "Prémios",
 		"mode": {
@@ -18,7 +18,7 @@
 		"faq": {
 			"registration": {
 				"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 22 de Agosto por mensagem privada no Servidor de Discord do Evento",
-				"considered-registered": "Só estás considerado registadoo se tiveres enviado prova do pagamento",
+				"considered-registered": "Só estás considerado registado se tiveres enviado prova do pagamento",
 				"discord-link": "Link de convite para o Servidor de Discord dado no formulário de inscrição"
 			},
 			"elegibility": {
