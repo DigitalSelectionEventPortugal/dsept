@@ -7,19 +7,25 @@
 		"refunds": "Refunds",
 		"elegibility": "Elegibility",
 		"rules": "Rules",
+		"ban-list": "Ban List",
 		"warnings": "Warnings",
 		"rounds": "Rounds",
 		"deck": "Deck",
 		"prizes": "Prizes",
+		"shipping": "Shipping",
 		"mode": {
 			"dark": "Mode: Dark",
 			"light": "Mode: Light"
 		},
 		"faq": {
 			"registration": {
+				"registration-dates": "For registration dates and details, check the corresponding event page",
 				"changes-to-registration": "Any changes to Registration Details, such as Discord Name and Decklists must be made until the end of 29th of August through Private Message in the Event's Discord Server",
 				"considered-registered": "You will only be considered registered if you have sent Proof of payment",
 				"discord-link": "Discord Invite Link is provided in the Registration Form"
+			},
+			"refunds":{
+				"refund-details": "For refund dates and details, check the corresponding event page"
 			},
 			"elegibility": {
 				"only-portuguese": "Only Portuguese players may register",
@@ -39,6 +45,9 @@
 				"delete-recording": "Recordings need to be deleted after each round",
 				"found-cheating": "If a player is found to be cheating, conducting innapropriate behaviour or going against Official Bandai rules, that player will be given a warning, game loss, Disqualification from the event or a permanent ban from participating in our events depending on the gravity of the situation",
 				"final-word": "The moderation team will have the final word in the event of the judge decision not being accepted by the involved parties"
+			},
+			"ban-list": {
+				"look-at-event": "For ban list details, check the corresponding event page"
 			},
 			"warnings": {
 				"5-mins-late-with-warning": "Arriving 5 minutes late to the match, WITH an heads up given to a Judge or Moderator, after the round has been announced: 1 warning",
@@ -63,16 +72,21 @@
 				"only-on-signup": "Only the registered deck during signup may be used"
 			},
 			"prizes": {
+				"details": "For prizing details, check the corresponding event page",
 				"boosters": "Players are awarded Boosters to be divided across the top placing players",
 				"represent": "Winner and 2nd place are given the invite to represent Portugal in addition to the boosters",
 				"free-entry": "The free entry awarded to the winner cannot be transfered to another player, if the winner cannot attend the next event this free entry will be lost",
-				"free-shipping": "Shipping is Free for Players participating in Portugal and Portuguese Islands",
-				"outside-of-portugal": "Portuguese Players living outside of Portugal may have to pay extra for shipping",
 				"freshly-open": "The display from where the boosters come from will be freshly opened on stream",
-				"packed-on-stream": "The prizes will be packed on stream as a display of trutghfullness",
 				"opened": "If the Player wishes, the booster packs may be opened on stream",
 				"of-value": "If a pack gets opened on stream due to player choice, that player may choose to have only some singles shipped to them and not have the rest of the bulk shipped"
-			}
+			},
+			"shipping": {
+				"free-shipping": "Shipping is Free for Players participating in Portugal and Portuguese Islands",
+				"outside-of-portugal": "Portuguese Players living outside of Portugal may have to pay extra for shipping",
+				"packed-on-stream": "The prizes will be packed on stream as a display of trutghfullness"
+			},
+			"for-more-details": "For more event details, visit the",
+			"event-rule-page": "Event Rules page"
 		}
 	},
 	"detalhes": {
@@ -128,6 +142,7 @@
 	"sidenav": {
 		"home": "Home",
 		"portugal-vs": "Portugal VS",
+		"event-rules": "Event Rules",
 		"eligible": "Eligible Representatives",
 		"about-us": "About Us",
 		"follow-us": "Follow Us"
@@ -166,7 +181,7 @@
 					"week-prior": "Refunds will only be issued until 1 week prior (23.08.2024)",
 					"non-refundable": "Any registration made within the week of the event (26.08 to 30.08) are non refundable"
 				},
-				"rules": {
+				"ban-list": {
 					"banlist": "Effective Ban list of 19 January 2024",
 					"new-banlist": "The 31 August 2024 ban list WILL NOT be used"
 				}

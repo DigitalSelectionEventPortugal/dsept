@@ -7,19 +7,25 @@
 		"refunds": "Reembolsos",
 		"elegibility": "Elegibilidade",
 		"rules": "Regras",
+		"ban-list": "Ban List",
 		"warnings": "Avisos",
 		"rounds": "Rondas",
 		"deck": "Baralhos",
 		"prizes": "Prémios",
+		"shipping": "Envios",
 		"mode": {
 			"dark": "Modo: Escuro",
 			"light": "Modo: Claro"
 		},
 		"faq": {
 			"registration": {
+				"registration-dates": "Para datas e detalhes sobre registos, visita a página do evento correspondente",
 				"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 29 de Agosto por mensagem privada no Servidor de Discord do Evento",
 				"considered-registered": "Só estás considerado registado se tiveres enviado prova do pagamento",
 				"discord-link": "Link de convite para o Servidor de Discord dado no formulário de inscrição"
+			},
+			"refunds": {
+				"refund-details": "Para datas e detalhes sobre reembolsos, visita a página do evento correspondente"
 			},
 			"elegibility": {
 				"only-portuguese": "Apenas jogadores Portuguêses podem se enscrever",
@@ -39,6 +45,9 @@
 				"delete-recording": "Gravações têm de ser apagadas entre rondas",
 				"found-cheating": "Se um jogador for apanhado a fazer batota, ter comportamentos indevidos ou a ir contra as regras oficiais da Bandai, tal jogador será avisado, perderá o jogo, será desqualificado do evento ou será permanentemente banido de participar nos nossos eventos dependendo da gravidade da situação",
 				"final-word": "A equipa de moderação tem a palavra final na situação da decisão dos juízes não ser aceita por ambas as partes involvidas"
+			},
+			"ban-list": {
+				"look-at-event": "Para detalhes sobre a ban list, visita a página do evento correspondente"
 			},
 			"warnings": {
 				"5-mins-late-with-warning": "Chegar 5 minutos atrasado ao jogo, COM uma notificação a um juíz ou moderador, depois de ronda ter sido anunciada: 1 aviso",
@@ -62,16 +71,21 @@
 				"only-on-signup": "Apenas o baralho registado durante a inscrição pode ser utilizado"
 			},
 			"prizes": {
+				"details": "Para detalhes sobre prémios, visita a página do evento correspondente For prizing details, check the corresponding event page",
 				"boosters": "Jogadores são recompensados com Boosters a serem divididos pelos jogadores classificados no topo da tabela",
 				"represent": "Vencedor e 2º lugar receberão o convite para representar Portugal em adição aos boosters",
 				"free-entry": "A entrada gratúita recompensada ao vencedor não pode ser transferida para outro jogador, se o vencedor não puder participar no próximo evento esta entrada gratúita será perdida",
-				"free-shipping": "Envios são gratúitos para jogodadores de Portugal continental e as ilhas",
-				"outside-of-portugal": "Jogadores Portugueses que estejam a viver fora de Portugal poderão de ter de pagar extra pelo envio",
 				"freshly-open": "O display de onde os Boosters virão será aberto em Stream",
-				"packed-on-stream": "Os prémios serão empacotados em Stream como uma demonstração de autenticidade",
 				"opened": "Se o jogador assim o desejar, os boosters poderão ser abertos em stream",
 				"of-value": "Se um Booster for aberto em stream por escolha de um jogador, tal jogador poderá escolher ter apenas algumas das cartas enviadas em vez de receber o bulk todo"
-			}
+			},
+			"shipping": {
+				"free-shipping": "Envios são gratúitos para jogodadores de Portugal continental e as ilhas",
+				"outside-of-portugal": "Jogadores Portugueses que estejam a viver fora de Portugal poderão de ter de pagar extra pelo envio",
+				"packed-on-stream": "Os prémios serão empacotados em Stream como uma demonstração de autenticidade"
+			},
+			"for-more-details": "Para mais detalhes sobre o evento, visita a",
+			"event-rule-page": "página das Regras dos Eventos"
 		}
 	},
 	"detalhes": {
@@ -126,6 +140,7 @@
 	"sidenav": {
 		"home": "Início",
 		"portugal-vs": "Portugal VS",
+		"event-rules": "Regras dos Eventos",
 		"eligible": "Representates Elegíveis",
 		"about-us": "Sobre Nós",
 		"follow-us": "Segue-nos"
@@ -164,7 +179,7 @@
 					"week-prior": "Reembolsos serão processados até 1 semana antes do evento (23.08.2024)",
 					"non-refundable": "Qualquer inscrição feita durante a semana do evento (26.08 to 29.08) não é reembolsável"
 				},
-				"rules": {
+				"ban-list": {
 					"banlist": "Ban list efetiva de 19 de Janeiro de 2024",
 					"new-banlist": "A ban list de 31 de Agosto de 2024 NÃO vai ser usada"
 				}
