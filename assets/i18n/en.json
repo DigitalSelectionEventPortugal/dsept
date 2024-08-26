@@ -95,6 +95,18 @@
 		"extra-time": "5 mins and 4 extra turns"
 
 	},
+	"eligible-players": {
+		"title": "Eligible Representatives",
+		"to-be-representative": "To be an eligible representative to represent Portugal against another country",
+		"won-invite": "Must have won an Invite in a Digital Selection Event leading up to the representation event",
+		"remote-setup": "Must have a remote set up to be able to play against people from other countries",
+		"speak-english": "Must be able to speak English fluently enough to communicate with your remote opponent",
+		"portuguese": "Must be Portuguese, live in main land Portugal, Portuguese Islands, or be a Portuguese emigrant",
+		"not-meet-requirements": "If a player, who has won a invite, does not meet these requirements",
+		"passed-down": "The invite will be passed down to the next placing player in the corresponding tournament in which the invite was won at",
+		"repeated": "This process will be repeated until a suitable candidate is found",
+		"non-transmissible": "Invites are non transmissible. If the player has communicated to the Organizing team that they cannot participate, the Organizing team will handle the transfering of the invite to the next suitable candidate, not the player"
+	},
 	"languages": {
 		"change": "Change Language",
 		"en": "English",
@@ -116,6 +128,7 @@
 	"sidenav": {
 		"home": "Home",
 		"portugal-vs": "Portugal VS",
+		"eligible": "Eligible Representatives",
 		"about-us": "About Us",
 		"follow-us": "Follow Us"
 	},

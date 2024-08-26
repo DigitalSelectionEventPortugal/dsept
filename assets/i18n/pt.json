@@ -93,6 +93,18 @@
 		"round-time": "Tempo De Ronda",
 		"extra-time": "5 mins e 4 turnos extra"
 	},
+	"eligible-players": {
+		"title": "Representantes Elegíveis",
+		"to-be-representative": "Para ser um representante elegível para representar Portugal contra outro país",
+		"won-invite": "Tem de ter ganho um Convite num Evento de Seleção Digital referente ao evento de representação",
+		"remote-setup": "Tem de ter uma configuração remota para que possa jogar contra outras pessoas de outros países",
+		"speak-english": "Tem de ser fluente em inglês o suficiente para poder comunicar com o oponente remoto",
+		"portuguese": "Tem de ser Português, viver em Portugal continental, Ilhas Portuguesas, ou ser um emigrante Português",
+		"not-meet-requirements": "Se um jogador, que ganhou o convite, não atingir todos estes requisitos",
+		"passed-down": "O convite será passado ao próximo jogador classificado no torneio em que o convite foi ganho",
+		"repeated": "Este processo será repetido até um candidato elegível seja encontrado",
+		"non-transmissible": "Convites não são transmissiveis. Se um jogador tiver comunicado à equipa de organização que não conseguirão participar, a equipa de organização irá processar a transferencia do convite para o próximo candidato elegível, não o jogador"
+	},
 	"languages": {
 		"change": "Mudar Idioma",
 		"en": "Inglês",
@@ -114,6 +126,7 @@
 	"sidenav": {
 		"home": "Início",
 		"portugal-vs": "Portugal VS",
+		"eligible": "Representates Elegíveis",
 		"about-us": "Sobre Nós",
 		"follow-us": "Segue-nos"
 	},
