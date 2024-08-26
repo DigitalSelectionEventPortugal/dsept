@@ -105,6 +105,9 @@
 		"what-is-title": "What is the \"Digital Selection Event\"",
 		"what-is-body": "The \"Digital Selection Event\" is a community led initiative started in Portugal to select a handful of players to represent the country against other countries.\nA series of events are held and the top qualifying players are invited to represent Portugal."
 	},
+	"notification": {
+		"banlist": "Bandai has announced a new ban list which will be effective on 31.08.\nThe ban list WILL NOT be used in the first selection happening on 31.08.2024, as such the following cards will not be affected:\n- P-123 Ukkomon x4\n- P-130 Lui Ohwada x4\n- ST2-13 Hammer Spark x4\n- BT9-098 Awakening of the Golden Knight x4\n- BT15-057 Numemon (X Antibody) x4\n- BT14-084 T.K. Takaishi x4\n- ST6-03 Gabumon x1"
+	},
 	"portugal-vs": {
 		"title": "Portugal VS",
 		"what-is-title": "What is \"Portugal VS\"",
@@ -149,6 +152,10 @@
 				"refunds": {
 					"week-prior": "Refunds will only be issued until 1 week prior (23.08.2024)",
 					"non-refundable": "Any registration made within the week of the event (26.08 to 30.08) are non refundable"
+				},
+				"rules": {
+					"banlist": "Effective Ban list of 19 January 2024",
+					"new-banlist": "The 31 August 2024 ban list WILL NOT be used"
 				}
 			}
 		}
