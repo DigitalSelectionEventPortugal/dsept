@@ -155,9 +155,9 @@
 		"france": "France"
 	},
 	"tooltip": {
-		"year": "The year in which the event will happen. Previous years will be maintained por historic preservation of previous events.",
-		"country": "The adversary country in which you'll quality against. The selected country will always be the adversary country to the portuguese team during the \"VS\" type event. Countries for which there's no active events will be preserved for history of previous events.",
-		"event": "The event in which you're wanting to participate. Players can only participate in events of \"Selection\" type. The events of type \"VS\" are reserved for the winners of the \"Selection\" type events."
+		"year": "The year in which the event will happen.\n\nPrevious years will be maintained por historic preservation of previous events.",
+		"country": "The adversary country in which you'll quality against.\n\nThe selected country will always be the adversary country to the portuguese team during the \"VS\" type event.\n\nCountries for which there's no active events will be preserved for history of previous events.",
+		"event": "The event in which you're wanting to participate.\n\nPlayers can only participate in events of \"Selection\" type.\n\nThe events of type \"VS\" are reserved for the winners of the \"Selection\" type events."
 	},
 	"2024": {
 		"france": {
