@@ -91,8 +91,8 @@
 	"detalhes": {
 		"year": "Ano",
 		"select-year": "Selecionar Ano",
-		"country": "País",
-		"select-country": "Selecionar País",
+		"country": "País Adversário",
+		"select-country": "Selecionar País Adv.",
 		"event": "Evento",
 		"select-event": "Selecionar Evento",
 		"event-date": "Data do Evento",
@@ -151,6 +151,11 @@
 	},
 	"countries": {
 		"france": "França"
+	},
+	"tooltip": {
+		"year": "Ano em que o evento vai decorrer. Anos passados serão mantidos para preservação histórica de eventos anteriores.",
+		"country": "País Adversário contra o qual te vais apurar. O País selecionado será sempre o país adversário à equipa portuguesa durante o evento de Tipo \"VS\". Países para o qual já não têm eventos ativos serão preservados para histórico de eventos anteriores.",
+		"event": "Evento em que pretendes participar. Jogadores só poderão participar nos eventos de tipo \"Seleção\". Os eventos de tipo \"VS\" estão reservados para os vencedores dos eventos de tipo \"Seleção\"."
 	},
 	"2024": {
 		"france": {
