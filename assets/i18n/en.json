@@ -20,7 +20,6 @@
 		"faq": {
 			"registration": {
 				"registration-dates": "For registration dates and details, check the corresponding event page",
-				"changes-to-registration": "Any changes to Registration Details, such as Discord Name and Decklists must be made until the end of 29th of August through Private Message in the Event's Discord Server",
 				"considered-registered": "You will only be considered registered if you have sent Proof of payment",
 				"discord-link": "Discord Invite Link is provided in the Registration Form"
 			},
@@ -74,7 +73,8 @@
 			"prizes": {
 				"details": "For prizing details, check the corresponding event page",
 				"boosters": "Players are awarded Boosters to be divided across the top placing players",
-				"represent": "Winner and 2nd place are given the invite to represent Portugal in addition to the boosters",
+				"represent-top2": "Winner and 2nd place are given the invite to represent Portugal in addition to the boosters",
+				"represent-top3": "1st, 2nd and 3rd places are given the invite to represent Portugal in addition to the boosters",
 				"free-entry": "The free entry awarded to the winner cannot be transfered to another player, if the winner cannot attend the next event this free entry will be lost",
 				"freshly-open": "The display from where the boosters come from will be freshly opened on stream",
 				"opened": "If the Player wishes, the booster packs may be opened on stream",
@@ -103,6 +103,7 @@
 		"player-limit": "Player Limit",
 		"entry-price": "Entry Price",
 		"representatives": "Representatives",
+		"set": "Set",
 		"format": "Format",
 		"best-of": "Best of",
 		"round-time": "Round Time",
@@ -132,7 +133,8 @@
 		"what-is-body": "The \"Digital Selection Event\" is a community led initiative started in Portugal to select a handful of players to represent the country against other countries.\nA series of events are held and the top qualifying players are invited to represent Portugal."
 	},
 	"notification": {
-		"banlist": ""
+		"banlist": "",
+		"sign-up": "Registration for the Second Selection Event will open on Sunday, 8th of September through Google Forms, stay tunned!"
 	},
 	"portugal-vs": {
 		"title": "Portugal VS",
@@ -169,26 +171,46 @@
 					"top1": "Winner: Invite to represent Portugal in Portugal VS France and Free entry for next event",
 					"top2": "2nd Place: Invite to represent Portugal in Portugal VS France",
 					"prizes-for-top": "BT17 Boosters to be divided across top placed players"
+				},
+				"second-selection": {
+					"top3": "1º, 2º e 3º places: Invite to represent Portugal in Portugal VS France",
+					"prizes-for-top": "EX7 Boosters to be divided across top placed players"
 				}
 			},
 			"selection-details": {
 				"first-selection-winner": "Winner of the First Selection Event (31.08.2024)",
 				"first-selection-second-place": "2nd place of the First Selection Event (31.08.2024)",
-				"second-selection-winner": "Winner of the Second Selection Event (09.2024)",
-				"second-selection-second-place": "2nd place of the Second Selection Event (09.2024)",
-				"second-selection-third-place": "3nd place of the Second Selection Event (09.2024)"
+				"second-selection-winner": "Winner of the Second Selection Event (28.09.2024)",
+				"second-selection-second-place": "2nd place of the Second Selection Event (28.09.2024)",
+				"second-selection-third-place": "3nd place of the Second Selection Event (28.09.2024)"
 			},
 			"faq": {
-				"registration": {
-					"be-made": "Registrations must be made until the 29th of August 23:59 GMT+1"
+				"first-selection": {
+					"registration": {
+						"be-made": "Registrations must be made until the 29th of August 23:59 GMT+1",
+						"changes-to-registration": "Any changes to Registration Details, such as Discord Name and Decklists must be made until the end of 29th of August through Private Message in the Event's Discord Server"
+					},
+					"refunds": {
+						"week-prior": "Refunds will only be issued until 1 week prior (23.08.2024)",
+						"non-refundable": "Any registration made within the week of the event (26.08 to 30.08) are non refundable"
+					},
+					"ban-list": {
+						"banlist": "Effective Ban list of 19 January 2024",
+						"new-banlist": "The 31 August 2024 ban list WILL NOT be used"
+					}
 				},
-				"refunds": {
-					"week-prior": "Refunds will only be issued until 1 week prior (23.08.2024)",
-					"non-refundable": "Any registration made within the week of the event (26.08 to 30.08) are non refundable"
-				},
-				"ban-list": {
-					"banlist": "Effective Ban list of 19 January 2024",
-					"new-banlist": "The 31 August 2024 ban list WILL NOT be used"
+				"second-selection": {
+					"registration": {
+						"be-made": "Registrations must be made until the 26th of September 23:59 GMT+1",
+						"changes-to-registration": "Any changes to Registration Details, such as Discord Name and Decklists must be made until the end of 26th of September through Private Message in the Event's Discord Server"
+					},
+					"refunds": {
+						"week-prior": "Refunds will only be issued until 1 week prior (20.09.2024)",
+						"non-refundable": "Any registration made within the week of the event (21.09 to 26.09) are non refundable"
+					},
+					"ban-list": {
+						"banlist": "Effective Ban list of 31 August 2024"
+					}
 				}
 			}
 		}

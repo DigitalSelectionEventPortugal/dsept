@@ -20,7 +20,6 @@
 		"faq": {
 			"registration": {
 				"registration-dates": "Para datas e detalhes sobre registos, visita a página do evento correspondente",
-				"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 29 de Agosto por mensagem privada no Servidor de Discord do Evento",
 				"considered-registered": "Só estás considerado registado se tiveres enviado prova do pagamento",
 				"discord-link": "Link de convite para o Servidor de Discord dado no formulário de inscrição"
 			},
@@ -73,7 +72,8 @@
 			"prizes": {
 				"details": "Para detalhes sobre prémios, visita a página do evento correspondente For prizing details, check the corresponding event page",
 				"boosters": "Jogadores são recompensados com Boosters a serem divididos pelos jogadores classificados no topo da tabela",
-				"represent": "Vencedor e 2º lugar receberão o convite para representar Portugal em adição aos boosters",
+				"represent-top2": "Vencedor e 2º lugar receberão o convite para representar Portugal em adição aos boosters",
+				"represent-top3": "1º, 2º e 3º lugares receberão o convite para representar Portugal em adição aos boosters",
 				"free-entry": "A entrada gratúita recompensada ao vencedor não pode ser transferida para outro jogador, se o vencedor não puder participar no próximo evento esta entrada gratúita será perdida",
 				"freshly-open": "O display de onde os Boosters virão será aberto em Stream",
 				"opened": "Se o jogador assim o desejar, os boosters poderão ser abertos em stream",
@@ -102,6 +102,7 @@
 		"player-limit": "Limite de Jogadores",
 		"entry-price": "Preço de Entrada",
 		"representatives": "Representantes",
+		"set": "Set",
 		"format": "Formato",
 		"best-of": "à melhor de ",
 		"round-time": "Tempo De Ronda",
@@ -130,7 +131,8 @@
 		"what-is-body": "O \"Digital Selection Event\" é um evento comunitário começado em Portugal para selecionar um conjunto de jogares para representárem o país contra outros países.\nUma série de eventos são realizados e os jogadores de topo qualificados são convidados a representar Portugal."
 	},
 	"notification": {
-		"banlist": ""
+		"banlist": "",
+		"sign-up": "O registo para o Evento Segunda Seleção vai abrir no domingo, 8 de Setembro via Google Forms, fiquem atentos!"
 	},
 	"portugal-vs": {
 		"title": "Portugal VS",
@@ -167,26 +169,46 @@
 					"top1": "Vencedor: Convite para representar Portugal no Portugal VS França e Entrada gratuita para o próximo evento",
 					"top2": "2º Lugar: Convite para reprensentar Portugal no Portugal VS França",
 					"prizes-for-top": "Boosters de BT17 a serem dividos pelo top"
+				},
+				"second-selection": {
+					"top3": "1º, 2º e 3º lugares: Convite para representar Portugal no Portugal VS França",
+					"prizes-for-top": "Boosters de EX7 a serem dividos pelo top"
 				}
 			},
 			"selection-details": {
 				"first-selection-winner": "Vencedor do evento Primeira Seleção (31.08.2024)",
 				"first-selection-second-place": "2º lugar do evento Primeira Seleção (31.08.2024)",
-				"second-selection-winner": "Vencedor do evento Segunda Seleção (09.2024)",
-				"second-selection-second-place": "2º lugar do evento Segunda Seleção (09.2024)",
-				"second-selection-third-place": "3º lugar do evento Segunda Seleção (09.2024)"
+				"second-selection-winner": "Vencedor do evento Segunda Seleção (28.09.2024)",
+				"second-selection-second-place": "2º lugar do evento Segunda Seleção (28.09.2024)",
+				"second-selection-third-place": "3º lugar do evento Segunda Seleção (28.09.2024)"
 			},
 			"faq": {
-				"registration": {
-					"be-made": "Registos feitos até 29 de Agosto 23:59 GMT+1"
+				"first-selection": {
+					"registration": {
+						"be-made": "Registos feitos até 29 de Agosto 23:59 GMT+1",
+						"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 29 de Agosto por mensagem privada no Servidor de Discord do Evento"
+					},
+					"refunds": {
+						"week-prior": "Reembolsos serão processados até 1 semana antes do evento (23.08.2024)",
+						"non-refundable": "Qualquer inscrição feita durante a semana do evento (26.08 a 29.08) não é reembolsável"
+					},
+					"ban-list": {
+						"banlist": "Ban list efetiva de 19 de Janeiro de 2024",
+						"new-banlist": "A ban list de 31 de Agosto de 2024 NÃO vai ser usada"
+					}
 				},
-				"refunds": {
-					"week-prior": "Reembolsos serão processados até 1 semana antes do evento (23.08.2024)",
-					"non-refundable": "Qualquer inscrição feita durante a semana do evento (26.08 to 29.08) não é reembolsável"
-				},
-				"ban-list": {
-					"banlist": "Ban list efetiva de 19 de Janeiro de 2024",
-					"new-banlist": "A ban list de 31 de Agosto de 2024 NÃO vai ser usada"
+				"second-selection": {
+					"registration": {
+						"be-made": "Registos feitos até 26 de Setembro 23:59 GMT+1",
+						"changes-to-registration": "Quaisquer alterações feitas à informação do registo, como o nome no Discord e Decklist têm de ser feitos até ao fim do dia 26 de Setembro por mensagem privada no Servidor de Discord do Evento"
+					},
+					"refunds": {
+						"week-prior": "Reembolsos serão processados até 1 semana antes do evento (20.09.2024)",
+						"non-refundable": "Qualquer inscrição feita durante a semana do evento (21.09 a 26.09) não é reembolsável"
+					},
+					"ban-list": {
+						"banlist": "Ban list efetiva de 31 de Agosto de 2024"
+					}
 				}
 			}
 		}
