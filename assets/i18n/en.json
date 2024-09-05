@@ -20,7 +20,7 @@
 		"faq": {
 			"registration": {
 				"registration-dates": "For registration dates and details, check the corresponding event page",
-				"considered-registered": "You will only be considered registered if you have sent Proof of payment",
+				"considered-registered": "You're considered as registered after filling the registration form, but you're only considered a participant if you have sent Proof of payment",
 				"discord-link": "Discord Invite Link is provided in the Registration Form"
 			},
 			"refunds":{
@@ -57,7 +57,7 @@
 				"not-eliminated": "If a player has lost a round they aren't immeadiately eliminated",
 				"regardless-of-losses": "A player may play out the tournament to completion regardless of the number of losses",
 				"swiss": "Tournament will work on a Swiss Round Format, and each round will be played on a Best of 3 format, first player to win 2 out of the 3 games in a round is considered the winner of that round",
-				"3-rounds": "02 to 08 players results in 3 rounds",
+				"3-rounds": "08 players results in 3 rounds",
 				"4-rounds": "09 to 16 players results in 4 rounds",
 				"5-rounds": "17 to 32 players results in 5 rounds",
 				"50-mins": "Players have 50 minutes to complete their Bo3",

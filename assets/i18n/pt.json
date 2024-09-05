@@ -20,14 +20,14 @@
 		"faq": {
 			"registration": {
 				"registration-dates": "Para datas e detalhes sobre registos, visita a página do evento correspondente",
-				"considered-registered": "Só estás considerado registado se tiveres enviado prova do pagamento",
+				"considered-registered": "Estás considerado como registado depois de preencher o formulário de inscrição, mas só és considerado participante se tiveres enviado prova do pagamento",
 				"discord-link": "Link de convite para o Servidor de Discord dado no formulário de inscrição"
 			},
 			"refunds": {
 				"refund-details": "Para datas e detalhes sobre reembolsos, visita a página do evento correspondente"
 			},
 			"elegibility": {
-				"only-portuguese": "Apenas jogadores Portuguêses podem se enscrever",
+				"only-portuguese": "Apenas jogadores Portuguêses podem se inscrever",
 				"areas": "Jogadores do continente, ilhas e emigrantes podem-se increver",
 				"speak": "Jogadores necessitam de saber falar Português",
 				"remote": "O jogador necessita de uma configuração remota para ser capaz de participar",
@@ -57,9 +57,9 @@
 				"not-eliminated": "Se um jogador perder um ronda, tal jogador não é imediatamente eliminado",
 				"regardless-of-losses": "Um jogador pode jogar o torneio até ao fim independentemente do numero de derrotas",
 				"swiss": "O Torneio vai funcionar num formato de rondas suíças, e cada ronda vai ser jogado num formato à melhor de 3 jogos (Bo3), o primeiro jogador a ganhar 2 dos 3 jogos numa ronda é considerado o vencedor dessa ronda",
-				"3-rounds": "02 a 08 jogadores result em 3 rondas",
-				"4-rounds": "09 a 16 jogadores result em 4 rondas",
-				"5-rounds": "17 a 32 jogadores result em 5 rondas",
+				"3-rounds": "08 jogadores resulta em 3 rondas",
+				"4-rounds": "09 a 16 jogadores resulta em 4 rondas",
+				"5-rounds": "17 a 32 jogadores resulta em 5 rondas",
 				"50-mins": "Jogadores têm 50 minutos para completar o seu Bo3",
 				"extra-time": "Se os 50 minutos tiverem passado e não existe um vencedor claro, 4 rondas extra são dadas aos jogadors e um total de 5 minutos são dados para acabar as tais 4 rondas",
 				"turn-0": "O turno do jogador em que o jogo se encontra quando o tempo acaba é considerado o turno 0 para os turnos extra, depois os jogadores jogam os turnos extra até acabarem o turno 3",
@@ -70,7 +70,7 @@
 				"only-on-signup": "Apenas o baralho registado durante a inscrição pode ser utilizado"
 			},
 			"prizes": {
-				"details": "Para detalhes sobre prémios, visita a página do evento correspondente For prizing details, check the corresponding event page",
+				"details": "Para detalhes sobre prémios, visita a página do evento correspondente",
 				"boosters": "Jogadores são recompensados com Boosters a serem divididos pelos jogadores classificados no topo da tabela",
 				"represent-top2": "Vencedor e 2º lugar receberão o convite para representar Portugal em adição aos boosters",
 				"represent-top3": "1º, 2º e 3º lugares receberão o convite para representar Portugal em adição aos boosters",
