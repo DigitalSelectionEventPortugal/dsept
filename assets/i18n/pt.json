@@ -84,6 +84,14 @@
 				"outside-of-portugal": "Jogadores Portugueses que estejam a viver fora de Portugal poderão de ter de pagar extra pelo envio",
 				"packed-on-stream": "Os prémios serão empacotados em Stream como uma demonstração de autenticidade"
 			},
+			"vs-franca": {
+				"titulo": "Regras VS França",
+				"5v5": "Equipa de 5 jogadores VS Equipa de 5 Jogadores",
+				"uma-vez": "Cada jogador só vai jogar uma vez, não vão haver jogos repetidos ou oponentes repetidos",
+				"decks-unicos": "Baralhos não podem ser repetidos dentro da mesma equipa, os 5 jogadores têm de ter baralhos diferentes",
+				"formato": "Os jogos serão à melhor de 3 (Bo3), sem tempo limite por jogo, sem sideboard e sem proxies",
+				"win-con": "Cada Bo3 ganho será um ponto para a equipa do vencedor, a primeira equipa a chegar aos 3 pontos ganha"
+			},
 			"for-more-details": "Para mais detalhes sobre o evento, visita a",
 			"event-rule-page": "página das Regras dos Eventos"
 		}

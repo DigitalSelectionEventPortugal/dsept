@@ -85,6 +85,14 @@
 				"outside-of-portugal": "Portuguese Players living outside of Portugal may have to pay extra for shipping",
 				"packed-on-stream": "The prizes will be packed on stream as a display of trutghfullness"
 			},
+			"vs-franca": {
+				"titulo": "Rules VS France",
+				"5v5": "Team of 5 players VS Team of 5 players",
+				"uma-vez": "Each player will only play once, there won't be repeated games or repeated opponents",
+				"decks-unicos": "Decks cannot be repeated within the same team, the 5 players must have different decks",
+				"formato": "The games will be played on a Best of 3 (Bo3), no time limit per game, no sideboard and no proxies",
+				"win-con": "Each Bo3 won will count as a point for the winner's team, the first team to reach 3 points wins"
+			},
 			"for-more-details": "For more event details, visit the",
 			"event-rule-page": "Event Rules page"
 		}
