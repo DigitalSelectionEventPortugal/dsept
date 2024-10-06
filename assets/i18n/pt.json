@@ -13,6 +13,8 @@
 		"deck": "Baralhos",
 		"prizes": "Prémios",
 		"shipping": "Envios",
+		"upcoming": "Próximos Eventos",
+		"past": "Eventos Passados",
 		"mode": {
 			"dark": "Modo: Escuro",
 			"light": "Modo: Claro"
@@ -161,11 +163,6 @@
 	},
 	"countries": {
 		"france": "França"
-	},
-	"tooltip": {
-		"year": "Ano em que o evento vai decorrer.\n\nAnos passados serão mantidos para preservação histórica de eventos anteriores.",
-		"country": "País Adversário contra o qual te vais apurar.\n\nO País selecionado será sempre o país adversário à equipa portuguesa durante o evento de Tipo \"VS\".\n\nPaíses para o qual já não têm eventos ativos serão preservados para histórico de eventos anteriores.",
-		"event": "Evento em que pretendes participar.\n\nJogadores só poderão participar nos eventos de tipo \"Seleção\".\n\nOs eventos de tipo \"VS\" estão reservados para os vencedores dos eventos de tipo \"Seleção\"."
 	},
 	"2024": {
 		"france": {
